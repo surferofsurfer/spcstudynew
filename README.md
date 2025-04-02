@@ -1,0 +1,1 @@
+spcstudynew 레파지토리 내 첫번째 README.md 파일 생성했습니다.
